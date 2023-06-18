@@ -1,0 +1,35 @@
+body
+{
+
+    background-color: pink;
+}
+h1
+{
+    text-align: center;
+    color: aliceblue;
+}
+.butt
+{
+    text-align: center;
+    background: none;
+    margin: auto;
+    width: 80%;
+    margin-top: 250px;
+}
+button
+{
+    background: none;
+    color: aliceblue;
+    font-size: xx-large;
+    padding: 30px;
+    margin: 15px;
+    border-color: white;
+    border-radius: 10px;
+}
+.pressed {
+    box-shadow: 0 20px 20px 0 #0f1619;
+    opacity: 0.5;
+    border-color: rgb(6, 1, 12);
+    border-radius: 10px;
+    
+  }
